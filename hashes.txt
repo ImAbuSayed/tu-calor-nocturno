@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu calor nocturno, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Tu calor nocturno, Vol. 2** (tu-calor-nocturno-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:59:49.977190 | `v1` | `be4adb6ba45d7f3b4a341702b2e701a17e74bc5b04111ff9b1716c8535692103` | `0a5c9ea2ee476391c26f5e63294e985b38af224849ffbc2e5dee85677c8482dd` | `2026-06-21_tu-calor-nocturno-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
